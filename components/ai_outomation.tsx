@@ -146,7 +146,7 @@ export default function AIAutomationPage() {
       <section className="py-20 bg-blue-600 text-white text-center">
         <h2 className="text-3xl font-bold mb-3">Ready to Automate?</h2>
         <p className="max-w-2xl mx-auto mb-8">
-          Let's build an AI-powered system for your business — fast, efficient,
+          Lets build an AI-powered system for your business — fast, efficient,
           and custom-designed to eliminate bottlenecks.
         </p>
 
